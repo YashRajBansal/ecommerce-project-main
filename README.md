@@ -2,7 +2,10 @@
 
 The four-page storefront now includes a password-protected admin workspace with a Python/SQLite backend. It uses Python 3.12+ and browser JavaScript modules. No application dependencies or build step are required.
 
-## Start
+**LIVE DEMO:** https://forma-ecommerce.onrender.com/
+**ADMIN:** https://forma-ecommerce.onrender.com/admin
+
+## Start for Local Computer
 
 From this folder:
 
