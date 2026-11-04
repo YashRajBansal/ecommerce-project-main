@@ -42,6 +42,7 @@ This prompts for a new password without displaying it and signs out all admin se
 Edits are validated on the server and use version checks to prevent overwriting another tab's newer edit. Store data refreshes in the customer pages every 15 seconds and when the window regains focus. A page refresh shows changes immediately. Customer order pages only show that browser's orders plus the original sample orders; admin can manage all orders.
 
 **admin uesrname** = admin
+
 **admin password** = admin@123456789
 
 
