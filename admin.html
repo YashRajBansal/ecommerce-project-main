@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#234c3b" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Forma | Store administration</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23234c3b'/%3E%3Ctext x='12' y='30' font-size='32' fill='%23fff'%3Ef%3C/text%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="/styles/forma.css" />
+    <link rel="stylesheet" href="/styles/admin.css" />
+    <script type="module" src="/scripts/admin.js"></script>
+  </head>
+  <body class="admin-body">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div id="admin-app">
+      <main class="loading-shell" aria-busy="true">
+        <span class="wordmark">forma<span>®</span></span>
+        <p>Opening your store workspace…</p>
+        <div class="skeleton"></div>
+      </main>
+    </div>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <dialog id="product-editor" aria-labelledby="editor-title"></dialog>
+    <dialog id="archive-dialog" aria-labelledby="archive-title"></dialog>
+    <noscript>Enable JavaScript to use store administration.</noscript>
+  </body>
+</html>
