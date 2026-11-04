@@ -1,4 +1,4 @@
-🛒  # Forma — E-commerce Storefront & Admin Dashboard
+# Forma — E-commerce Storefront & Admin Dashboard 🛒  
 
 Forma is a responsive, four-page e-commerce demo with a customer storefront and a password-protected admin workspace. It is powered by a lightweight Python and SQLite backend, with browser-native JavaScript modules for the storefront and admin interface.
 
